@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
-    <wb-module deploy-name="CRUD_Operartions">
-        <wb-resource deploy-path="/" source-path="/src/main/webapp"/>
-        <property name="context-root" value="CRUD_Operartions"/>
-        <property name="java-output-path" value="/CRUD_Operartions/build/classes"/>
-    </wb-module>
-</project-modules>
